@@ -1,4 +1,4 @@
-import { ADD_FILTER, REMOVE_FILTER, CLEAR_FILTER  } from './position-filters';
+import {ADD_FILTER, REMOVE_FILTER, CLEAR_FILTER} from './filters-actions'
 
 export const filterReducer = (state = [], action) => {
   switch(action.type) {
