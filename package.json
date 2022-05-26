@@ -1,7 +1,7 @@
 {
   "name": "dashboard-app",
   "version": "0.1.0",
-  "home": "https://olmerrr.github.io/react-redux-dashboard/",
+  "homepage": "https://olmerrr.github.io/react-redux-dashboard/",
   "author": "Yaroslav Dombrovskiy",
   "private": true,
   "dependencies": {
